@@ -1,2 +1,2 @@
 # Pong
-A simple game
+A simple game for learning C++ knowledge
