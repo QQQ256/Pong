@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "ios": "cpp",
+        "functional": "cpp",
+        "complex": "cpp",
+        "filesystem": "cpp",
+        "iostream": "cpp",
+        "fstream": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "type_traits": "cpp",
+        "locale": "cpp"
+    }
+}
