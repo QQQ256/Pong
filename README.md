@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bare Minimum Instructions
 
 1. Run the appropriate build script for your operating system:
@@ -26,4 +27,10 @@
     - or
     - pip install pybind11
 - Finally, check the build scripts to see if the correct version of python is being used (3, 3.5, 3.6, etc.)
+=======
+# Pong
+A simple a two-player pinball game using C++ and the SDL2 development library.
+
+<img width="300px" src="./media/pong.gif">
+>>>>>>> c99e3456f9206dedc85705616d71ea8773ebfb59
 
